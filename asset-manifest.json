@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ContactFormReactJs/static/css/main.f8f9ba0e.chunk.css",
+    "main.js": "/ContactFormReactJs/static/js/main.d04992ca.chunk.js",
+    "main.js.map": "/ContactFormReactJs/static/js/main.d04992ca.chunk.js.map",
+    "runtime-main.js": "/ContactFormReactJs/static/js/runtime-main.6ed9ff7b.js",
+    "runtime-main.js.map": "/ContactFormReactJs/static/js/runtime-main.6ed9ff7b.js.map",
+    "static/js/2.a699ac24.chunk.js": "/ContactFormReactJs/static/js/2.a699ac24.chunk.js",
+    "static/js/2.a699ac24.chunk.js.map": "/ContactFormReactJs/static/js/2.a699ac24.chunk.js.map",
+    "static/js/3.bf935882.chunk.js": "/ContactFormReactJs/static/js/3.bf935882.chunk.js",
+    "static/js/3.bf935882.chunk.js.map": "/ContactFormReactJs/static/js/3.bf935882.chunk.js.map",
+    "index.html": "/ContactFormReactJs/index.html",
+    "static/css/main.f8f9ba0e.chunk.css.map": "/ContactFormReactJs/static/css/main.f8f9ba0e.chunk.css.map",
+    "static/js/2.a699ac24.chunk.js.LICENSE.txt": "/ContactFormReactJs/static/js/2.a699ac24.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ContactFormReactJs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ed9ff7b.js",
+    "static/js/2.a699ac24.chunk.js",
+    "static/css/main.f8f9ba0e.chunk.css",
+    "static/js/main.d04992ca.chunk.js"
+  ]
+}
